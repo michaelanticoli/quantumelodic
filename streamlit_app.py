@@ -28,7 +28,7 @@ class KnowledgeBase:
 kb = KnowledgeBase()
 
 # OpenAI API setup
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "sk-proj-XwHcSFRUGg6NatcXO5x2T3BlbkFJ8HPcOwSEte8QpPHMgUPk"
 
 def generate_descriptions(term):
     prompt = f"""
